@@ -1,9 +1,10 @@
 [project]
-name = "poc-docling"
+name = "docling-gui"
 version = "0.1.0"
 description = ""
 authors = [
-    { name = "Gabriel Maia", email = "gabrielmaialva33@gmail.com" }
+    { name = "Gabriel Maia", email = "gabrielmaialva33@gmail.com" },
+    { name = "Josi Sativa", email = "" }
 ]
 readme = "README.md"
 requires-python = ">=3.9"
